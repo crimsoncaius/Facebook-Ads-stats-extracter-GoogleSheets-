@@ -1,0 +1,19 @@
+{
+  "ACCESSTOKEN": "EAAHBBmYOSU4BO275bZCMJSVpxPKOnt6q75MnhE5vv0VltdI01UwgduqOVFjSMfxv0voOeBa84svSKXenHkwmnyZA6vjcWHNxzpZAHZALhHMMKqLCNm43kYiq4Y8ZBze29jjG0iLVvS5VdTvqjlrPBdues8lacqLG0ITvNSbvlMJnwfyAbt6rYQmqruXoZAaWbtHiPlRkyQWmSMUcoHvtrDhIFBOEcEFmdgAVbLFR3V",
+  "URL": "https://graph.facebook.com/v17.0/",
+  "CAMPAIGN_SPREADSHEET_LINK": [
+    {
+      "NAME": "BFIT",
+      "CAMPAIGNIDS": ["23850218944620317"],
+      "SPREADSHEET_ID": "1xYqzfMGb62OMAqexAQ0XhSaKxi4_JjKI_GGeaTy6WmQ"
+    },
+    {
+      "NAME": "Flex Fitness",
+      "CAMPAIGNIDS": ["23852484650990405"],
+      "SPREADSHEET_ID": "18ia4l4U7wx6BN_Fnxf8I8q4cZd5cXEEf_cwtFBJjaYA"
+    }
+  ],
+  "ADSET_NAMENUMBERINDEX": 1,
+  "SHEETNAME": "Day Stat",
+  "DATESEARCHLIMIT": "500"
+}
