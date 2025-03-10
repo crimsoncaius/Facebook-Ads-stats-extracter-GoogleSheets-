@@ -43,6 +43,9 @@ client_secret.json
 token.json
 token.pickle
 
+# Configuration files
+config.json
+
 # IDE specific files
 .idea/
 .vscode/
